@@ -8,6 +8,6 @@ China: por primera vez desde el estallido de la epidemia no hay nuevos casos ni 
 
 ## Coronavirus shutdowns have unintended climate benefits: cleaner air, clearer water
 
-Although grim, it's something scientists said could offer tough lessons for how to prepare — and ideally avoid — the most destructive impacts of climate change.
+Los aislamientos por coronavirus tienen beneficios colaterales para el cambio climático: aire mas limpio y agua mas limpia 
 
 <https://www.nbcnews.com/science/environment/coronavirus-shutdowns-have-unintended-climate-benefits-n1161921>
