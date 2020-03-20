@@ -1,4 +1,10 @@
 ---
 ---
 
-@import "custom";
+@import "";
+
+.page-header {
+  .project-name: {
+    text-transform: uppercase
+  }
+}
