@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
+  background-image: url(https://placekitten.com/1920/900);
   .project-name {
     text-transform: uppercase;
   }
