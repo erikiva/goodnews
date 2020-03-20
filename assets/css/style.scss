@@ -2,4 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-@import "custom";
+
+.page-header {
+  .project-name {
+    text-transform: uppercase;
+  }
+}
