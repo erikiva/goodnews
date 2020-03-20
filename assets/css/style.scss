@@ -1,8 +1,5 @@
 ---
 ---
 
-.page-header {
-  .project-name {
-    text-transform: uppercase;
-  }
-}
+@import "{{ site.theme }}";
+@import "custom";
