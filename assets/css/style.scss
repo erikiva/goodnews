@@ -5,17 +5,22 @@
 
 .page-header {
   background-image: url(https://placekitten.com/1920/900);
+  
   .project-name {
     text-transform: uppercase;
   }
 }
 
 .main-content {
+  
   h3 {
-   color: inherit;
-   font-weight: bold;
+    border-top: 1px solid;
+    color: inherit;
+    font-weight: bold;
+    padding-top: 1rem;
   }
+  
   h2 {
-   margin-top: 0; 
+    margin-top: 0; 
   }
 }
