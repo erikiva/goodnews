@@ -1,6 +1,14 @@
 # Solo buenas noticias sobre covid-19
 
 ### 21 de marzo
+## El primer respirador fabricado con impresora 3D se probará el lunes en Asturias
+
+The first ventilator manufactured with a 3D printer will be tested in Asturias on Monday.
+
+<https://cadenaser.com/programa/2020/03/20/la_ventana/1584723044_908019.html>
+
+
+### 21 de marzo
 ## La polución en Barcelona y Madrid se reduce un 50% los tres primeros días de confinamiento
 
 Pollution in Barcelona and Madrid is reduced by 50% in the first three days of confinement.
