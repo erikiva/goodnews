@@ -9,10 +9,15 @@
   
   .project-name {
     text-transform: uppercase;
+    text-shadow: 1px 1px 2px black; 
   }
   
   .project-tagline {
-    background-color: rgba(0,0,0, .4);
+    text-shadow: 1px 1px 2px black; 
+  }
+  
+  .btn {
+    background-color: rgba(0,0,0,.4);
   }
   
 }
