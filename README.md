@@ -1,5 +1,12 @@
 # Solo buenas noticias sobre covid-19
 
+### 22 de marzo
+## Un mapa colaborativo de ayuda vecinal para "frenar la curva"
+
+A collaborative map of neighborhood assistance to "stop the curve".
+
+<https://www.elsaltodiario.com/coronavirus/mapa-app-colaborativo-ayuda-vecinal-frenar-la-curva-maps>
+
 ### 21 de marzo
 ## El primer respirador fabricado con impresora 3D se probará el lunes en Asturias
 
