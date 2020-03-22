@@ -1,6 +1,10 @@
 # Solo buenas noticias sobre covid-19
 
 ### 22 de marzo
+## Students go online for a capella performance after concert canceled due to covid-19
+Un grupo de estudiantes ofrece una actuación a capella online al cancelarse un concierto debido a covid-19
+
+### 22 de marzo
 ## Un mapa colaborativo de ayuda vecinal para "frenar la curva"
 
 A collaborative map of neighborhood assistance to "stop the curve".
