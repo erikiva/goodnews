@@ -4,6 +4,8 @@
 ## Students go online for a capella performance after concert canceled due to covid-19
 Un grupo de estudiantes ofrece una actuación a capella online al cancelarse un concierto debido a covid-19
 
+<https://www.newsobserver.com/latest-news/article241408161.html>
+
 ### 22 de marzo
 ## Un mapa colaborativo de ayuda vecinal para "frenar la curva"
 
