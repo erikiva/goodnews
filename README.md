@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 23 de marzo
+## Un delfín es avistado en Cagliari debido a la ausencia de embarcaciones
+A dolphin is sighted in Cagliari due to the absence of boats.
+
+<https://www.20minutos.es/videos/gonzoo/4194499-un-delfin-es-avistado-en-cagliari-debido-a-la-ausencia-de-embarcaciones/>
+
 ### 22 de marzo
 ## Students go online for a capella performance after concert canceled due to covid-19
 Un grupo de estudiantes ofrece una actuación a capella online al cancelarse un concierto debido a covid-19
