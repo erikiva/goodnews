@@ -1,13 +1,20 @@
 # Solo buenas noticias sobre covid-19
 
-### 23 de marzo
+### 24 de marzo
+## El primer paciente dado de alta en Ifema, despedido entre aplausos
+The first patient discharged from Ifema amidst applause
+
+<https://www.yorokobu.es/golpecito-almeriense/>
+
+
+### 24 de marzo
 ## ¿Acabará el coronavirus con los golpecitos que dan los almerienses al hablar?
 Hay quien dice que es una muestra de afecto, quien piensa que es un reclamo de atención y quien asegura que es ¡un cate de euforia!
 
 <https://www.yorokobu.es/golpecito-almeriense/>
 
 
-### 23 de marzo
+### 24 de marzo
 ## La contaminación desciende un 83% en Barcelona y un 73% en Madrid tras el estado de alarma
 Pollution falls by 83% in Barcelona and 73% in Madrid after the state of alarm.
 
