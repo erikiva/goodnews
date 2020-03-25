@@ -1,5 +1,12 @@
 # Solo buenas noticias sobre covid-19
 
+### 25 de marzo
+## Un oso se pasea por las calles de un pueblo aprovechando la soledad de la cuarentena
+A bear wanders through the streets of a village during the lockdown
+
+<https://www.lavanguardia.com/natural/20200323/4855861497/video-oso-calles-asturias-confinamiento-coronavirus-animales-salvajes-ciudad.html>
+
+
 ### 24 de marzo
 ## El primer paciente dado de alta en Ifema, despedido entre aplausos
 The first patient discharged from Ifema amidst applause
