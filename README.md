@@ -1,12 +1,5 @@
 # Solo buenas noticias sobre covid-19
 
-### 26 de marzo
-## Los recuperados de coronavirus siguen subiendo
- Coronavirus recoveries continue to rise
-
-<https://www.20minutos.es/noticia/4203757/0/los-recuperados-de-coronavirus-siguen-subiendo-son-casi-3-800-y-representan-un-9-5-de-los-casos/>
-
-
 ### 25 de marzo
 ## Un oso se pasea por las calles de un pueblo aprovechando la soledad de la cuarentena
 A bear wanders through the streets of a village during the lockdown
