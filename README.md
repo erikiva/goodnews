@@ -4,7 +4,7 @@
 ## El primer paciente dado de alta en Ifema, despedido entre aplausos
 The first patient discharged from Ifema amidst applause
 
-<https://www.yorokobu.es/golpecito-almeriense/>
+<https://www.lavanguardia.com/local/madrid/20200323/4862865215/coronavirus-primer-paciente-alta-ifema-despedida-aplausos.html>
 
 
 ### 24 de marzo
