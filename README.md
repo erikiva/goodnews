@@ -1,6 +1,13 @@
 # Solo buenas noticias sobre covid-19
 
 ### 26 de marzo
+## ¿Qué hizo con la comida cuando cerró su restaurante por la cuarentena? Cocinar para los vecinos que lo necesitan
+Cooking for the neighbors who need it
+
+<https://www.yorokobu.es/casa28comes/>
+
+
+### 26 de marzo
 ## La Gran Muralla China reabre sus puertas tras más de dos meses cerrada por el covid-19
 The Great Wall of China reopens its doors after more than two months closed by the covid-19
 
