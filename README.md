@@ -1,8 +1,15 @@
 # Solo buenas noticias sobre covid-19
 
 ### 26 de marzo
-## Los recuperados de coronavirus siguen subiendo
- Coronavirus recoveries continue to rise
+## La Gran Muralla China reabre sus puertas tras más de dos meses cerrada por el covid-19
+The Great Wall of China reopens its doors after more than two months closed by the covid-19
+
+<https://www.lavanguardia.com/vida/20200325/4891967594/gran-muralla-china-reabre-coronavirus.html>
+
+
+### 26 de marzo
+## Los recuperados de covid-19 siguen subiendo
+ Covid-19 recoveries continue to rise
 
 <https://www.20minutos.es/noticia/4203757/0/los-recuperados-de-coronavirus-siguen-subiendo-son-casi-3-800-y-representan-un-9-5-de-los-casos/>
 
@@ -22,7 +29,7 @@ The first patient discharged from Ifema amidst applause
 
 
 ### 24 de marzo
-## ¿Acabará el coronavirus con los golpecitos que dan los almerienses al hablar?
+## ¿Acabará el covid-19 con los golpecitos que dan los almerienses al hablar?
 Hay quien dice que es una muestra de afecto, quien piensa que es un reclamo de atención y quien asegura que es ¡un cate de euforia!
 
 <https://www.yorokobu.es/golpecito-almeriense/>
