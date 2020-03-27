@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 27 de marzo
+## 101-year-old man who survived 1918 flue beats coronavirus, too
+Un hombre de 101 años que sobrevivió a la gripe de 1918 también vence al covid-19
+
+<https://futurism.com/neoscope/101-year-old-man-survives-coronavirus>
+
 ### 26 de marzo
 ## ¿Qué hizo con la comida cuando cerró su restaurante por la cuarentena? Cocinar para los vecinos que lo necesitan
 Cooking for the neighbors who need it
