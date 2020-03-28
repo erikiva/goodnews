@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 28 de marzo
+## Leon sets up initiative to deliver free meals to NHS critical care staff
+La cadena de comida rápida Leon crea una iniciativa para enviar comida gratuita al personal de cuidados intensivos del sistema nacional de salud del Reino Unido
+
+<https://www.theguardian.com/business/2020/mar/27/leon-sets-up-initiative-to-deliver-free-hot-meals-to-nhs-staff-coronavirus>
+
 ### 27 de marzo
 ## 101-year-old man who survived 1918 flue beats coronavirus, too
 Un hombre de 101 años que sobrevivió a la gripe de 1918 también vence al covid-19
