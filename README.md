@@ -1,6 +1,14 @@
 # Solo buenas noticias sobre covid-19
 
 ### 28 de marzo
+## The week in wildlife – in pictures
+
+La semana en la vida salvaje (en fotos)
+
+<https://www.theguardian.com/environment/gallery/2020/mar/27/the-week-in-wildlife-in-pictures>
+
+
+### 28 de marzo
 ## Leon sets up initiative to deliver free meals to NHS critical care staff
 La cadena de comida rápida Leon crea una iniciativa para enviar comida gratuita al personal de cuidados intensivos del sistema nacional de salud del Reino Unido
 
