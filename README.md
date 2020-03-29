@@ -1,5 +1,12 @@
 # Solo buenas noticias sobre covid-19
 
+### 29 de marzo
+## Estrella Galicia rechaza un ERTE e invoca al espíritu de empresa familiar: «Lo superaremos juntos»
+
+The beer company Estrella Galicia avoids redundancies and invokes the spirit of family business: "We will overcome it together"
+
+<https://www.abc.es/espana/galicia/abci-estrella-galicia-rechaza-erte-invoca-espiritu-empresa-familiar-superaremos-juntos-202003271930_noticia_amp.html>
+
 ### 28 de marzo
 ## The week in wildlife – in pictures
 
