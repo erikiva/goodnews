@@ -1,6 +1,12 @@
 # Solo buenas noticias sobre covid-19
 
 ### 30 de marzo
+## ¿Por qué la sociedad va ganando?
+Why is society winning?
+
+<https://www.elsaltodiario.com/tribuna/daniel-ripa-covid19-por-que-la-sociedad-va-ganando>
+
+### 30 de marzo
 ## Así es SOLIDARITY, el mayor ensayo clínico contra el covid-19
 
 This is SOLIDARITY, the largest clinical trial against covid-19
