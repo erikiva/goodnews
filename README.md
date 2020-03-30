@@ -1,5 +1,13 @@
 # Solo buenas noticias sobre covid-19
 
+### 30 de marzo
+## Así es SOLIDARITY, el mayor ensayo clínico contra el covid-19
+
+This is SOLIDARITY, the largest clinical trial against covid-19
+
+<https://www.agenciasinc.es/Reportajes/Asi-es-SOLIDARITY-el-mayor-ensayo-clinico-contra-el-coronavirus>
+
+
 ### 29 de marzo
 ## Estrella Galicia rechaza un ERTE e invoca al espíritu de empresa familiar: «Lo superaremos juntos»
 
