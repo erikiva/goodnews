@@ -1,6 +1,12 @@
 # Solo buenas noticias sobre covid-19
 
 ### 31 de marzo
+## José María Peña, jefe clínico en La Paz: "En unos meses veremos que un altísimo porcentaje de jóvenes ha pasado el coronavirus sin enterarse"
+José María Peña, clinical chief in Hospital La Paz (Madrid): "In a few months we will see that a very high percentage of young people have passed the coronavirus without knowing it".
+
+https://www.eldiario.es/sociedad/Jose-Maria-Pena-Paz-entrevista_0_1010699086.html
+
+### 31 de marzo
 ## De fabricar coches a respiradores
 From making cars to ventilators
 
