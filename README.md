@@ -1,5 +1,19 @@
 # Solo buenas noticias sobre covid-19
 
+### 1 de abril
+## El Imperial College asegura que las medidas de prevención en España han salvado 16.000 vidas
+Imperial College assures that prevention measures in Spain have saved 16,000 lives
+
+<https://www.lavanguardia.com/vida/20200331/48212175939/imperial-college-prevencion-espana-salvado-vidas-coronavirus.html>
+
+
+### 1 de abril
+## Dyson developed and is producing ventilators to help treat covid-19 patients
+Dyson ha desarrollado y está produciendo respiradores para ayudar a los pacientes de covid-19
+
+https://www.theverge.com/2020/3/26/21195433/dyson-ventilators-covent-coronavirus-develop-produce-uk-nhs-donate-vacuum-motor?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter
+
+
 ### 31 de marzo
 ## José María Peña, jefe clínico en La Paz: "En unos meses veremos que un altísimo porcentaje de jóvenes ha pasado el coronavirus sin enterarse"
 José María Peña, clinical chief in Hospital La Paz (Madrid): "In a few months we will see that a very high percentage of young people have passed the coronavirus without knowing it".
