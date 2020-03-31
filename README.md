@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 31 de marzo
+## De fabricar coches a respiradores
+From making cars to ventilators
+
+<https://www.seat-mediacenter.es/newspage/allnews/company/2020/De-fabricar-coches-a-respiradores.html>
+
 ### 30 de marzo
 ## ¿Por qué la sociedad va ganando?
 Why is society winning?
