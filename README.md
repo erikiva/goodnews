@@ -11,14 +11,14 @@ Imperial College assures that prevention measures in Spain have saved 16,000 liv
 ## Dyson developed and is producing ventilators to help treat covid-19 patients
 Dyson ha desarrollado y está produciendo respiradores para ayudar a los pacientes de covid-19
 
-https://www.theverge.com/2020/3/26/21195433/dyson-ventilators-covent-coronavirus-develop-produce-uk-nhs-donate-vacuum-motor?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter
+<https://www.theverge.com/2020/3/26/21195433/dyson-ventilators-covent-coronavirus-develop-produce-uk-nhs-donate-vacuum-motor>
 
 
 ### 31 de marzo
 ## José María Peña, jefe clínico en La Paz: "En unos meses veremos que un altísimo porcentaje de jóvenes ha pasado el coronavirus sin enterarse"
 José María Peña, clinical chief in Hospital La Paz (Madrid): "In a few months we will see that a very high percentage of young people have passed the coronavirus without knowing it".
 
-https://www.eldiario.es/sociedad/Jose-Maria-Pena-Paz-entrevista_0_1010699086.html
+<https://www.eldiario.es/sociedad/Jose-Maria-Pena-Paz-entrevista_0_1010699086.html>
 
 ### 31 de marzo
 ## De fabricar coches a respiradores
