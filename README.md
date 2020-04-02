@@ -1,5 +1,13 @@
 # Solo buenas noticias sobre covid-19
 
+
+### 2 de abril
+## #AyudaBiblioteca, el personal bibliotecario de centros sanitarios se une para ofrecer información actualizada, fiable y de calidad
+#AyudaBiblioteca, the library staff of health centers unites to offer updated, reliable and quality information
+
+<https://www.julianmarquina.es/ayudabiblioteca-el-personal-bibliotecario-de-centros-sanitarios-se-une-para-ofrecer-informacion-actualizada-fiable-y-de-calidad/>
+
+
 ### 1 de abril
 ## El Imperial College asegura que las medidas de prevención en España han salvado 16.000 vidas
 Imperial College assures that prevention measures in Spain have saved 16,000 lives
