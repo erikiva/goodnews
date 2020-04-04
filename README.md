@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 4 de abril
+## España logra que la tasa de multiplicación del coronavirus descienda a 1: cada paciente contagia a otro más
+Spain manages to bring the covid-19 multiplication rate down to 1: eacht patient infects just another
+
+<https://www.eldiario.es/sociedad/Espana-multiplicacion-coronavirus-paciente-contagia_0_1013149137.html>
+
 
 ### 2 de abril
 ## #AyudaBiblioteca, el personal bibliotecario de centros sanitarios se une para ofrecer información actualizada, fiable y de calidad
