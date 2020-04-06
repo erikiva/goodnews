@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 6 de abril
+## Los primeros respiradores fabricados por Seat, rumbo a Torrent (Valencia)
+The first ventilators manufactured by Seat, geared towards Torrent (Valencia)
+
+<https://comarcalcv.com/los-primeros-respiradores-fabricados-por-seat-rumbo-a-la-residencia-de-torrent/>
+
 ### 4 de abril
 ## España logra que la tasa de multiplicación del coronavirus descienda a 1: cada paciente contagia a otro más
 Spain manages to bring the covid-19 multiplication rate down to 1: eacht patient infects just another
