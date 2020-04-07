@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 7 de abril
+## WWII veteran recovers from coronavirus just in time for 104th birthday: "I made it"
+Veterano de la Segunda Guerra Mundial se recupera de coronavirus justo a tiempo para su cumpleaños: "Lo conseguí"
+
+<https://www.cbsnews.com/news/bill-lapschies-oregon-veteran-coronavirus-recover-104-years-birthday/>
+
 ### 6 de abril
 ## Los primeros respiradores fabricados por Seat, rumbo a Torrent (Valencia)
 The first ventilators manufactured by Seat, geared towards Torrent (Valencia)
