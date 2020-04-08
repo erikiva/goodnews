@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 8 de abril
+## Una luz al final del túnel: Alemania, Austria, República Checa y Dinamarca comienzan a rebajar restricciones
+A light at the end of the tunnel: Germany, Austria, Czech Republic and Denmark begin to ease restrictions
+
+<https://www.eldiario.es/internacional/Alemania-Austria-Republica-Checa-Dinamarca_0_1014198770.html>
+
 ### 7 de abril
 ## WWII veteran recovers from coronavirus just in time for 104th birthday: "I made it"
 Veterano de la Segunda Guerra Mundial se recupera de coronavirus justo a tiempo para su cumpleaños: "Lo conseguí"
