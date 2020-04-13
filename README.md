@@ -1,5 +1,11 @@
 # Solo buenas noticias sobre covid-19
 
+### 13 de abril
+## Por qué hay motivos para el optimismo si en España ya hay un 15% de población contagiada de covid-19
+Spain has 15% of its population infected with covid-19, why we should be optimistic about this?
+
+<https://blogs.20minutos.es/ciencias-mixtas/2020/04/01/por-que-hay-motivos-para-el-optimismo-si-en-espana-ya-hay-un-15-de-poblacion-contagiada-de-covid-19/>
+
 ### 8 de abril
 ## Una luz al final del túnel: Alemania, Austria, República Checa y Dinamarca comienzan a rebajar restricciones
 A light at the end of the tunnel: Germany, Austria, Czech Republic and Denmark begin to ease restrictions
