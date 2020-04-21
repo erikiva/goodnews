@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: url(https://placekitten.com/1919/900);
+  background-size: cover;
+  
+  .project-name {
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px black; 
+  }
+  
+  .project-tagline {
+    text-shadow: 1px 1px 2px black; 
+  }
+  
+  .btn {
+    background-color: rgba(0,0,0,.4);
+    display: inline;
+  }
+  
+}
+
+.main-content {
+  
+  h3 {
+    border-top: 1px solid;
+    color: inherit;
+    font-weight: bold;
+    padding-top: 1rem;
+  }
+  
+  h2 {
+    margin-top: 0; 
+  }
+}
