@@ -217,3 +217,11 @@ Los aislamientos por coronavirus tienen beneficios colaterales para el cambio cl
 High temperatures and humidity reduce the transmission of covid-19.
 
 <https://www.tiempo.com/ram/altas-temperaturas-y-humedades-reducen-la-transmision-de-covid-19.html>
+
+### 21 de abril
+## Suspendido San Fermín 2020 por la pandemia del coronavirus: "Seguiremos así hasta que no haya vacuna"
+
+Cancelled San Fermin 2020 because of Coronavirus
+
+<https://www.elmundo.es/cultura/toros/san-fermin/2020/04/21/5e9ebcdafdddff530e8b4604.html>
+
